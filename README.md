@@ -1,1 +1,1 @@
-# TestMaven
+# TestMaven: maven + git + junit
